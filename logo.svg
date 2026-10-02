@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="myora-t">
+  <title id="myora-t">Myora</title>
+  <!-- Grille 48, M condense, montants de 5. Le montant droit s arrete a 24 : le bloc separe (30-38) est la reserve de repetitions. -->
+  <polygon fill="#FAFAFA" points="12,38 12,10 17.5,10 24,23 30.5,10 36,10 36,24 31,24 31,20 24,34 17,20 17,38"/><rect fill="#DFE104" x="31" y="30" width="5" height="8"/>
+</svg>

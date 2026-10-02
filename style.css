@@ -1,0 +1,14 @@
+@font-face { font-family: Myora; src: url(MyoraDisplay-Regular.ttf); font-weight: 400; }
+@font-face { font-family: Myora; src: url(MyoraDisplay-Bold.ttf); font-weight: 700; }
+* { box-sizing: border-box; }
+body { background: #050608; color: #EEF3F7; font: 400 18px/1.6 Myora, system-ui, sans-serif; max-width: 760px; margin: 0 auto; padding: 40px 20px 80px; }
+header img { height: 30px; display: block; }
+h1 { font-weight: 700; font-size: 56px; line-height: .95; text-transform: uppercase; margin: 56px 0 16px; }
+h2 { font-weight: 700; font-size: 15px; letter-spacing: 2px; text-transform: uppercase; color: #8A97A6; margin: 44px 0 8px; border-top: 1px solid #1B232D; padding-top: 20px; }
+h2::before { content: "// "; }
+a { color: #00E5FF; }
+.muted { color: #8A97A6; }
+ul { padding-left: 20px; }
+nav { margin-top: 64px; border-top: 1px solid #1B232D; padding-top: 20px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; font-size: 14px; }
+nav a { margin-right: 24px; text-decoration: none; }
+@media (max-width: 520px) { h1 { font-size: 40px; } }
